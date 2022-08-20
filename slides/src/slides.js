@@ -59,6 +59,14 @@ const slides = [
         https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png
       `
     ]
+  },
+  {
+    type: "intro",
+    title: "And now, Niko:",
+    description: "Do NOT be this MF-er!",
+    images: [
+      "https://img.freepik.com/premium-photo/baby-plays-floor-child-is-lying-his-stomach-rug-with-pyramid-toddler-takes-toy-his-mouth-licks-it-teething-infant_114354-928.jpg?w=2000"
+    ]
   }
 ];
 
