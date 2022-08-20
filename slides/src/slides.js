@@ -26,8 +26,8 @@ const slides = [
   },
   {
     type: "intro",
-    title: "Do freelance work",
-    description: "If you can find it. It may be as much work as getting a job in some cases. But if you can get it, your employability for a full time gig increases!",
+    title: "Do freelance work*",
+    description: "*If you can find it. It may be as much work as getting a job in some cases. But if you can get it, your employability for a full time gig increases!",
     images: [
       "https://akns-images.eonline.com/eol_images/Entire_Site/2019527/rs_1024x759-190627115154-1024-beth-chapman-mv-62719.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top",
     ]
@@ -63,7 +63,7 @@ const slides = [
   {
     type: "intro",
     title: "And now, Niko:",
-    description: "Do NOT be this MF-er!",
+    description: "(Do NOT be this MF-er!)",
     images: [
       "https://img.freepik.com/premium-photo/baby-plays-floor-child-is-lying-his-stomach-rug-with-pyramid-toddler-takes-toy-his-mouth-licks-it-teething-infant_114354-928.jpg?w=2000"
     ]
