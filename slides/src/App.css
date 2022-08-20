@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  padding-top: 70px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 50px;
+}
+
+ul {
+  width: 40%;
+  margin: 0 auto;
+  text-align: left;
+}
